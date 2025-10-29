@@ -1,6 +1,6 @@
 /*
  * Accordion Block
- * Recreate an accordion
+ * Recreate an accordion sample testing
  * https://www.hlx.live/developer/block-collection/accordion
  */
 
